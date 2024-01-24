@@ -1,4 +1,4 @@
-package java.spring.lesson3.models;
+package GBjava.GBspring.lesson3.models;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

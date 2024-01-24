@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Main-Class: java.spring.lesson3.Lesson3Application
+Main-Class: GBjava.GBspring.lesson3.Lesson3Application
 Class-Path: evo-inflector-1.3.jar tomcat-embed-el-10.1.18.jar openteleme
  try-context-1.31.0.jar jakarta.activation-api-2.1.2.jar jakarta.annotat
  ion-api-2.1.1.jar spring-boot-starter-logging-3.2.2.jar json-path-2.8.0

@@ -1,4 +1,4 @@
-package java.spring.lesson3;
+package GBjava.GBspring.lesson3;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
